@@ -1,0 +1,6 @@
+development:
+  DB_USER_NAME: user
+  DB_PASSWORD: password
+  PORT: 4532
+  DB_NAME: bdname
+  HOST: host
